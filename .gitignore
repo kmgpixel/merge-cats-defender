@@ -1,0 +1,7 @@
+.godot/
+build/
+.claude/
+.DS_Store
+# Graphismes CraftPix : licence sans redistribution des fichiers bruts.
+# Ils sont régénérés depuis le kit avec tools/build_assets.py (le jeu publié les embarque dans index.pck).
+assets/
